@@ -14,3 +14,5 @@ information like reaction time and accuracy.
 For the JPGs I call in the code, download from the Flickr set I made for them here: http://www.flickr.com/photos/meli-lewis/sets/72157633108640097
 
 I always first presented practice (but without recording EEG -- you'll notice that the stimulus and response port codes are identical between "practice" and "replication," which you'll want to change if you plan to record during the practice session also), then replication. Presentation order of extension A (high points, low anxiety condition) and extension B (low points, high anxiety condition) were counterbalanced.
+
+Finally, the code calls for using a file called "startle3amplified.wav," which I'm not sure I can provide here because it's only a slight modification of a stimulus designed by the original author. I don't yet have his permission to share it, and I'm not yet sure of whether I'd need to. However, you can design your own 50ms 105dB white noise as a stimulus to induce startle for your own replication or make something else as you see fit!
