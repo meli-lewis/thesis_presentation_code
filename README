@@ -8,8 +8,9 @@ can learn more about at http://openscienceframework.org/.
 
 I'll assume, if you're planning on using what I post here, that you're
 already familiar with Presentation. I'm including here my experiment,
-the scenario files used therein, the .sdf I used for logging simple
-information like reaction time and accuracy, and -- while it's not
-generally encouraged, the JPGs I used for stimuli for now while I
-figure out Git and whether I can just put a URL here pointing to the
-JPGs stored elsewhere.
+the scenario files used therein, and the .sdf I used for logging simple
+information like reaction time and accuracy.
+
+For the JPGs I call in the code, download from the Flickr set I made for them here: http://www.flickr.com/photos/meli-lewis/sets/72157633108640097
+
+I always first presented practice (but without recording EEG -- you'll notice that the stimulus and response port codes are identical between "practice" and "replication," which you'll want to change if you plan to record during the practice session also), then replication. Presentation order of extension A (high points, low anxiety condition) and extension B (low points, high anxiety condition) were counterbalanced.
